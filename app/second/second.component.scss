@@ -1,0 +1,205 @@
+
+   .header{
+    margin-top: 15px ;
+    margin-bottom: 15px ;
+   }
+.logo{
+    width: 155px;
+    height: 30px;
+    margin-left: 230px;
+}
+
+.signin{
+        padding-top: 50px;
+       padding-left: 840px;
+       font-weight: normal;
+    text-decoration: underline dotted;
+    text-underline-position: under;
+    font-size: 14px;
+    line-height: 20px;
+    color: rgb(107, 110, 121);
+   
+       
+}
+
+   .home-bg{
+      width: 100%;
+     height: 390px;
+   }
+
+.tab-main{
+  background-color: white;
+  position: relative;
+  top: -70px;
+  height: 90%;
+  border-radius: 6px 6px 0px 0px;
+  box-sizing: border-box;
+    border: 0 solid #e9ebee;
+}
+
+
+.tab-content{
+  width: 106.2%;
+ position: relative;
+ right: 15px;
+
+  box-shadow: 0px 30px 30px 10px rgb(194, 193, 193);
+}
+
+.tab-item{
+  width: 50%;
+ 
+  text-align: center;
+}
+
+.nav-red{
+  color: #da291c;
+}
+
+.input-box{
+  font-size: 15px;
+    font-weight: 600;
+    display: block;
+    width: 100%;
+    padding: 0 15px;
+    color: #000;
+    border: 0.1px solid #bcc1c5;
+    border-radius: 4px;
+    background-color: #fff;
+    background-clip: padding-box;
+    transition: border .2s ease-in;
+    min-height: 44px;
+    box-shadow: none;
+}
+
+.tab-link{
+  font-family: SharpSans,system-ui,BlinkMacSystemFont,Helvetica Neue,Helvetica,sans-serif;
+  color: #000;
+  font-weight: 300;
+}
+
+
+
+.contents{
+  padding-bottom: 20px;
+}
+.geo-tab{
+  font-size: 11px;
+    display: block;
+    width: 100%;
+    height: 40px;
+    padding: 0 15px;
+    color: rgb(38, 144, 243);
+    border: 0.1px solid #bcc1c5;
+    border-radius: 4px;
+    background-color: #fff;
+    padding-top: 10px;
+
+    
+    
+    box-shadow: none;
+}
+   .deals{
+       margin-top: -20px;
+   }
+
+   .deals-hr-1{
+    
+    display: flex;
+    border-width: 3px;
+    color: white ;
+    border-color: #d9dde3;
+    position: relative;
+    top: 32px;
+    left: 490px;
+    height: 1px;
+    width: 39%;
+   }
+
+   .deals-hr-2{ 
+  
+    display: flex;
+    border-width: 3px;
+    color: white ;
+    border-color: #d9dde3;
+    position: relative;
+    top: -30px;
+    right: 390px;
+    height: 1px;
+    width: 39%;
+   }
+
+   .deals-h4{
+       font-weight: 700;
+       padding-left: 660px;
+       font-family: SharpSansBold,system-ui,BlinkMacSystemFont,Helvetica Neue,Helvetica,sans-serif;
+    line-height: 1;
+}
+  
+  .home-promo{
+     width: 100%;
+     margin-right: 10px;
+  }
+  .home-promo-p{
+    background-color :#3f3d3e;
+    color: #e9ebee;
+    font-size: 10px;
+    width: 100%;
+    text-align: center;
+  }
+  .view-btn{
+      width: 65%;
+      height: 50px;
+      margin-left: 266px;
+      margin-bottom: 50px;
+  }
+
+  .footer{
+    width: 103%;
+      background-color: black;
+      color: #e9ebee;
+  }
+
+  .footer-header{
+      margin-top: 50px;
+  }
+  .footer-links{
+      font-size: 13px;
+  }
+
+ .col2{
+padding-left: 40px;
+  }
+  .col3{
+padding-left: 70px;
+  }
+  .col4{
+padding-left: 120px;
+  }
+
+  .appstore1{
+      width: 100%;
+      background-color: #000;
+      position: relative;
+      top: 89px;
+      right: 520px;
+  }
+.appstore2{
+    width: 100%;
+    background-color: #000;
+      position: relative;
+      top: 53px;
+      
+      right: 370px;
+  }
+
+.feedback {
+ 
+  position: relative;
+  left: 90px;
+  top: 20px;
+}
+.ftr-txt{
+color: #78838c;
+font-size: 12px;
+}
